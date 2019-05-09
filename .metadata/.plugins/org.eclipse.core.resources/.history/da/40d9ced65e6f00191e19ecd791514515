@@ -1,0 +1,10 @@
+package fortuneTellerProject;
+
+public class FortuneTellerProject {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
